@@ -1,5 +1,4 @@
-# iOS打包脚本
-
+# iOS通用打包脚本
 
 # 依赖
 - fastlane
